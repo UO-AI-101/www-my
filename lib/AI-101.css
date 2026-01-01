@@ -207,9 +207,9 @@ h1,h2,h3 {
 
 /* Lists, unordered and ordered */
 .content ul .nested{
-    margin-bottom: 0ex;
-    margin-top: 0ex;
-    padding-bottom: 0ex;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 0;
 }
 .content li {
 	list-style: square;
