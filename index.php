@@ -89,6 +89,7 @@
             </div>
 
             <div class="item">
+                <h2>AI policy</h2>
                 <p>In this course, you will be <em>required</em>
                     or <em>encouraged</em> to use AI for projects. However
                     there will be specific portions of projects that you must
