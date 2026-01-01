@@ -8,10 +8,10 @@
 
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1"/>
 <meta name="description"
-      content="CS 210, Introduction to Computer Science I"/>
+      content="CS 199 Introduction to AI"/>
 <meta name="author" content="Michal Young"/> 
 
    <link rel="stylesheet" type="text/css" media="screen"
-         href=<?php relURL("lib/cs211.css");?>  />
+         href=<?php relURL("lib/AI-101.css");?>  />
    <link rel="stylesheet" type="text/css" media="print"
-         href=<?php relURL("lib/cs-211-print.css");?>  />
+         href=<?php relURL("lib/AI-101-print.css");?>  />

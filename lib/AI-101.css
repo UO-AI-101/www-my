@@ -80,6 +80,7 @@ cite .booktitle {
 h1,h2,h3 {
 	color: #B72512;
 	padding-top: 6px;
+    padding-bottom: 0.8ex;
 }
 
 /* structure */
@@ -205,9 +206,15 @@ h1,h2,h3 {
 
 
 /* Lists, unordered and ordered */
+.content ul .nested{
+    margin-bottom: 0ex;
+    margin-top: 0ex;
+    padding-bottom: 0ex;
+}
 .content li {
 	list-style: square;
 	margin-left: 18px;
+    margin-bottom: 1ex;
 }
 
 /* Description lists */
@@ -272,7 +279,7 @@ h1,h2,h3 {
 
 
 /* Other tables */
-td, th {  background-color:#88CC88; color:black; 
+td, th {  color:black;
       margin: 5px; padding: 3px;
       }
 
