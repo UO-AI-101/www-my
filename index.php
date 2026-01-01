@@ -100,6 +100,7 @@
                     exams and quizzes must be completed without any computer
                     help, including AI.
                 </p>
+            </div>
 
             <div class="item">
                 <h2>Grading</h2>
