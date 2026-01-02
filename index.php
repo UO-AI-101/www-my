@@ -32,7 +32,7 @@
                 AI. The minor in applied AI will show future employers in any
                 field that you are familiar with the uses and implications of
                 this fast-growing technology. If a minor in Applied AI is
-                interesting to you, consider taking the follow-on CS 110 Spr
+                interesting to you, consider taking the follow-on CS 110 Spring
                 2026 where you learn to program with AI.
             </p>
 
