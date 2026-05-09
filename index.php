@@ -4,7 +4,7 @@
     <?php include("getroots.php"); ?>
     <?php include("lib/headcontent.php");
     ?>
-    <title>CS 199: Introduction to Artificial Intelligence</title>
+    <title>CS 109: Introduction to Artificial Intelligence</title>
 </head>
 
 <body>
@@ -17,7 +17,7 @@
 
         <div class="item">
 
-            <p>Let’s harness AI to do better, deeper work. In CS 199 we’ll build
+            <p>Let’s harness AI to do better, deeper work. In CS 109 we’ll build
                 a basic understanding of AI and use current tools like chatbots
                 in hands-on projects, building skill in using AI effectively and
                 responsibly. Exercises will include specializing chatbots
@@ -27,7 +27,7 @@
                 for background in computing or advanced mathematics.
             </p>
 
-            <p>Credits in CS199 will apply to the forthcoming minor in
+            <p>Credits in CS109 will apply to the forthcoming minor in
                   Applied
                 AI. The minor in applied AI will show future employers in any
                 field that you are familiar with the uses and implications of
@@ -40,7 +40,7 @@
 
             <h2>Pre-requisites</h2>
 
-            <p>CS 199 (pilot for planned AI 101) has no pre-requisites.  In
+            <p>CS 109 has no pre-requisites.  In
                 particular, you do <em>not</em> need to be a programmer, nor
                 will you  become a programmer in this course. You also don't
                 need advanced math.  Although there is
@@ -50,7 +50,7 @@
             </p>
 
             <h2>Learning Objectives</h2>
-            <p>We will follow three interrelated threads in CS 199:  How AI
+            <p>We will follow three interrelated threads in CS 109:  How AI
                 models work, how to use them effectively, and how they may
                 affect individuals and society.</p>
             <ul>
@@ -66,9 +66,9 @@
                     You will practice using
                     currently available tools, iteratively
                     refining prompts and checking output for accuracy and
-                    relevance.  Our final project will be
-                    <em>customizing</em> a chatbot to assist in an area of
-                    interest.
+                    relevance.  Our projects will include using AI as a
+                    research aid and creating custom applications relevant to
+                    your field of study.
                 </li>
                 <li><strong>Effects on individuals and society:</strong>
                     Will AI make us all rich, or
@@ -84,7 +84,7 @@
 
             <div class="item">
                 <h2>Text</h2>
-                <p>There is no textbook in CS 199.  Readings will be made
+                <p>There is no textbook in CS 109.  Readings will be made
                     available (free) through Canvas.</p>
             </div>
 
@@ -107,7 +107,8 @@
                 <p>In this pilot offering, grading will be based on:</p>
                 <ul>
                     <li>
-                    Engagement 15%:  Frequent, simple in-class quizzes
+                    Engagement 15%:  Frequent, simple in-class quizzes, as
+                        well as exercises in lab,
                     will check that you are present and attentive.
                     </li>
                     <li>
@@ -116,15 +117,12 @@
                             <li>20% for the best two of three
                             in-class exams.
                             </li>
-                            <li>20% for a final exam.
+                            <li>25% for a final exam.
                             </li>
                         </ul></li>
-                    <li>Projects 45%: Two projects using AI
-                        as an aid in research, 10% and then 15%, and
-                        20% for a third project in which you
-                        will assemble a custom chatbot with
-                        external knowledge sources to aid research in an
-                        area of interest.
+                    <li>Projects 45%: Two projects using AI as an aid in
+                        research and two using AI to generate apps relevant
+                        to your field of study and career goals.
                     </li>
                 </ul>
                 <h3>Attendance and late work</h3>
@@ -145,7 +143,8 @@
                         penalty of 1% per hour.  No late work will be
                         accepted after Monday of week 10, except the final
                         project which may be turned in late (with the usual
-                        penalty) by Friday of week 10.
+                        penalty) by Friday of week 10.  Your project score
+                        will be based on the best three of four projects.
                     </li>
                 </ul>
                 <p>Standard exceptions to this policy will follow UO
@@ -155,17 +154,60 @@
                     fairness to other students, I
                     will not make ad hoc exceptions.</p>
                 <h3>Grading scale</h3>
-                <p>In this initial offering I will use a classic
-                point system for grading.
-                </p>
+                <p>In this offering I will use a classic
+                grading system using weighted averages.
                 <table>
-                    <tr><td></td><td>Range</td></tr>
                     <tr><td>A</td><td>90.0-100</td></tr>
                     <tr><td>B</td><td>80.0-89.9</td></tr>
                     <tr><td>C</td><td>70.0-79.9</td></tr>
                     <tr><td>D</td><td>50.0-69.9</td></tr>
                     <tr><td>F</td><td>below 50%</td></tr>
                 </table>
+               </p>
+                <p>
+                For example, suppose a student had the following scores:
+                <table>
+                    <tr>
+                        <th>Component</th><th>Scores</th>
+                    </tr>
+                    <tr>
+                        <td>Engagement</td><td>15 (Full credit)</td>
+                    </tr>
+                    <tr>
+                        <td>Midterms</td><td>40, 80, 80</td>
+                    </tr>
+                    <tr>
+                        <td>Final exam</td><td>75</td>
+                    </tr>
+                    <tr>
+                        <td>Projects</td><td>75, 75, 95, 80</td>
+                    </tr>
+                </table>
+            </p>
+                <p>
+                The lowest midterm score (40) and the lowest project score
+                (75) would be omitted.  The grade would then be a B based on
+                <table>
+                    <tr>
+                    <th>Component</th>
+                        <th>Weighted Average</th>
+                    </tr>
+                    <tr>
+                        <td>Engagement</td><td>15</td>
+                    </tr>
+                    <tr>
+                        <td>Midterms</td><td>16=20(80+80)/200</td>
+                    </tr>
+                    <tr>
+                        <td>Final exam</td><td>18.75=25(75/100)</td>
+                    </tr>
+                    <tr>
+                        <td>Projects</td><td>37.5=
+                            45(75+95+80)/300</td>
+                    </tr>
+                    <tr><td>Total</td><td>87.25</td></tr>
+                </table>
+            </p>
             </div>
 
 

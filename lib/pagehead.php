@@ -4,7 +4,7 @@
    <div class="title">
 
    <h1> Introduction to Artificial Intelligence<br />
-       Winter 2026
+       Fall 2026
    </h1>
    </div> <!-- title -->
    </div> <!-- pageheader -->
