@@ -155,7 +155,7 @@
                     will not make ad hoc exceptions.</p>
                 <h3>Grading scale</h3>
                 <p>In this offering I will use a classic
-                grading system using weighted averages.
+                    grading system using weighted averages.</p>
                 <table>
                     <tr><td>A</td><td>90.0-100</td></tr>
                     <tr><td>B</td><td>80.0-89.9</td></tr>
@@ -163,9 +163,10 @@
                     <tr><td>D</td><td>50.0-69.9</td></tr>
                     <tr><td>F</td><td>below 50%</td></tr>
                 </table>
-               </p>
+
                 <p>
                 For example, suppose a student had the following scores:
+                </p>
                 <table>
                     <tr>
                         <th>Component</th><th>Scores</th>
@@ -183,10 +184,10 @@
                         <td>Projects</td><td>75, 75, 95, 80</td>
                     </tr>
                 </table>
-            </p>
                 <p>
                 The lowest midterm score (40) and the lowest project score
                 (75) would be omitted.  The grade would then be a B based on
+                </p>
                 <table>
                     <tr>
                     <th>Component</th>
@@ -207,7 +208,6 @@
                     </tr>
                     <tr><td>Total</td><td>87.25</td></tr>
                 </table>
-            </p>
             </div>
 
 
