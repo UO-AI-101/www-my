@@ -3,8 +3,8 @@
 <div class="sidenav">
     <img src="img/handshake.png" width="100%"
     alt="Illustration of robot shaking hands with human">
-    <h1>Winter 2026</h1>
-    <h2>CS 199</h2>
+    <h1>Fall 2026</h1>
+    <h2>CS 109</h2>
     <h3>UH 4-5:20</h3>
-    <h3>220 Deschutes</h3>
+    <h3>Location TBD</h3>
 </div> 
