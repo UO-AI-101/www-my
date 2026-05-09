@@ -4,7 +4,7 @@
     <?php include("getroots.php"); ?>
     <?php include("lib/headcontent.php");
     ?>
-    <title>CS 109: Introduction to Artificial Intelligence</title>
+    <title>CS 109: Introduction to Artificial Intelligence (AI)</title>
 </head>
 
 <body>
@@ -32,11 +32,9 @@
                 AI. The minor in applied AI will show future employers in any
                 field that you are familiar with the uses and implications of
                 this fast-growing technology. If a minor in Applied AI is
-                interesting to you, consider taking the follow-on CS 110 Spring
-                2026 where you learn to program with AI.
+                interesting to you, consider following CS 109 with CS 110
+                where you can learn to program with AI.
             </p>
-
-
 
             <h2>Pre-requisites</h2>
 
@@ -85,7 +83,10 @@
             <div class="item">
                 <h2>Text</h2>
                 <p>There is no textbook in CS 109.  Readings will be made
-                    available (free) through Canvas.</p>
+                    available (free) through Canvas.  Some readings will
+                    require access through subscriptions provided by
+                    <a href="https://library.uoregon.edu"/>UO
+                    libraries. </p>
             </div>
 
             <div class="item">
@@ -100,11 +101,22 @@
                     exams and quizzes must be completed without any computer
                     help, including AI.
                 </p>
+                <p>While we will make use of a variety of AI tools in labs
+                    and projects, we will
+                    require only tools that you can use without paid
+                    purchases or subscriptions, except those provided to
+                    students by the University.  You <em>may</em> find it
+                    convenient
+                    to
+                    install some tools on your personal device, but your
+                    grade in CS 109 will not depend on your willingness to do
+                    so.
+                </p>
             </div>
 
             <div class="item">
                 <h2>Grading</h2>
-                <p>In this pilot offering, grading will be based on:</p>
+                <p>In this offering, grading will be based on:</p>
                 <ul>
                     <li>
                     Engagement 15%:  Frequent, simple in-class quizzes, as
@@ -164,24 +176,29 @@
                     <tr><td>F</td><td>below 50%</td></tr>
                 </table>
 
+                <details>
+                    <summary>Example grade calculation</summary>
+
+
                 <p>
                 For example, suppose a student had the following scores:
                 </p>
                 <table>
                     <tr>
-                        <th>Component</th><th>Scores</th>
+                        <th>Component</th><th>Example Scores</th>
                     </tr>
                     <tr>
                         <td>Engagement</td><td>15 (Full credit)</td>
                     </tr>
                     <tr>
-                        <td>Midterms</td><td>40, 80, 80</td>
+                        <td>Midterms</td><td>40, 80, 80 (best two count)</td>
                     </tr>
                     <tr>
                         <td>Final exam</td><td>75</td>
                     </tr>
                     <tr>
-                        <td>Projects</td><td>75, 75, 95, 80</td>
+                        <td>Projects</td><td>75, 75, 95, 80 (best three
+                            count)</td>
                     </tr>
                 </table>
                 <p>
@@ -208,6 +225,7 @@
                     </tr>
                     <tr><td>Total</td><td>87.25</td></tr>
                 </table>
+                </details>
             </div>
 
 
