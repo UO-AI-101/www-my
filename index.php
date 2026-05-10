@@ -86,7 +86,7 @@
                     available (free) through Canvas.  Some readings will
                     require access through subscriptions provided by
                     <a href="https://library.uoregon.edu"/>UO
-                    libraries. </p>
+                    libraries.</a> </p>
             </div>
 
             <div class="item">
